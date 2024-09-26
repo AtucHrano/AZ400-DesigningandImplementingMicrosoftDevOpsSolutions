@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/fx26920/186a7f74-ddf0-4d57-ae0f-c5ecffbeeee2/13a6be00-2d7f-42c7-8b37-06ed3e98c30e/_apis/work/boardbadge/383a0e25-9eb6-46d0-a401-76eacac94e72)](https://dev.azure.com/fx26920/186a7f74-ddf0-4d57-ae0f-c5ecffbeeee2/_boards/board/t/13a6be00-2d7f-42c7-8b37-06ed3e98c30e/Microsoft.RequirementCategory)
 # AZ-400: Designing and Implementing Microsoft DevOps Solutions
 
 ## Welcome
